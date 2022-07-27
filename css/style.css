@@ -14,3 +14,11 @@
   position: absolute;
   bottom: 8.50rem !important;
 }
+
+.custom-width {
+  width: 5px;
+}
+
+.custom-border-color {
+  border: 1px solid #dddddd !important;
+}
