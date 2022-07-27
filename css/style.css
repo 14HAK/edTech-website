@@ -22,3 +22,11 @@
 .custom-border-color {
   border: 1px solid #dddddd !important;
 }
+
+.custom-margin-auto {
+  margin: 0px auto;
+}
+
+.custon-width {
+  width: 10rem;
+}
