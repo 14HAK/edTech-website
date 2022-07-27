@@ -1,0 +1,16 @@
+.custom-overlay {
+  height: auto;
+  width: auto;
+  background: black;
+  overflow: hidden;
+}
+
+.custom-opecity {
+  object-fit: cover;
+  opacity: 0.5;
+}
+
+.custom-position {
+  position: absolute;
+  bottom: 8.50rem !important;
+}
