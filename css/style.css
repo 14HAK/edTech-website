@@ -30,3 +30,8 @@
 .custon-width {
   width: 10rem;
 }
+
+
+.custom-margin {
+  margin-left: 20rem !important;
+}
